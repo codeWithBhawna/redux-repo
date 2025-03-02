@@ -46,7 +46,7 @@ This project is a **Full-Stack Quiz Management System** that allows users to cre
 ### **Backend Setup**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/quiz-management-system.git
+   git clone https://github.com/codeWithBhawna/quiz-management-system.git
    cd backend
    ```
 2. Install dependencies:
@@ -95,8 +95,7 @@ This project is a **Full-Stack Quiz Management System** that allows users to cre
 | `PUT`   | `/api/questions/:questionId`           | Update a question |
 | `DELETE`| `/api/questions/:questionId`           | Delete a question |
 
-## 📸 Screenshots
-_Add screenshots of the project here_
+
 
 ## 💡 Future Enhancements
 - User roles (Admin, Moderator, User)
